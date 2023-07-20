@@ -5,7 +5,7 @@
 }
  
 .container{
-    padding: 276px 0;
+    height: 100vh;
     align-items: center;
     justify-content: center;
     display: flex;
